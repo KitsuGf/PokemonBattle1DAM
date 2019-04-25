@@ -22,7 +22,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author cenec
+ * @author Kitsu
  */
 public class PokemonGame {
 

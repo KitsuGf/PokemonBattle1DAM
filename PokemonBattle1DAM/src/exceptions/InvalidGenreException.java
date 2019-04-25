@@ -7,7 +7,7 @@ package exceptions;
 
 /**
  *
- * @author cenec
+ * @author Kitsu
  */
 public class InvalidGenreException extends Exception {
     public InvalidGenreException(String m){

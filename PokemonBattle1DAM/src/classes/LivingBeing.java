@@ -9,7 +9,7 @@ import exceptions.InvalidGenreException;
 
 /**
  *
- * @author cenec
+ * @author Kitsu
  */
 public class LivingBeing {
         private String name;

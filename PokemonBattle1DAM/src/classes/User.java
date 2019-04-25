@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 
 /**
  *
- * @author cenec
+ * @author Kitsu
  */
 public class User extends LivingBeing {
      private String password;
